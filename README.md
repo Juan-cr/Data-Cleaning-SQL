@@ -8,7 +8,7 @@ The dataset contains property sales data with issues such as missing values, inc
 
 ---
 
-## 🏢 Business Context
+##  Business Context
 
 Real estate datasets are often messy and inconsistent, which makes accurate analysis difficult.  
 This project simulates a real-world scenario where a data analyst must prepare housing data for:
@@ -175,6 +175,6 @@ ORDER BY AvgPrice DESC;
 
 ---
 
-## 💡 Author
+##  Author
 Juan Carlos  
 Data Analyst | SQL | Data Cleaning | Data Visualization
